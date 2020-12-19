@@ -1,3 +1,4 @@
+// see https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
 const Mustache = require('mustache');
 const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
