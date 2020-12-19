@@ -1,4 +1,4 @@
-My name is not Thomas and today is Saturday, December 19, 5:04 AM GMT+1.
+My name is not Thomas and today is Saturday, December 19, 5:08 AM GMT+1.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/einSelbst)  
 
@@ -6,7 +6,7 @@ My name is not Thomas and today is Saturday, December 19, 5:04 AM GMT+1.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=einSelbst)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einSelbst)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einselbst&show_icons=true&locale=en&layout=compact&theme=dracula" alt="einselbst" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=einSelbst&show_icons=true&count_private=true&theme=dracula)  
 
@@ -23,6 +23,4 @@ My name is not Thomas and today is Saturday, December 19, 5:04 AM GMT+1.
 <a href="https://twitter.com/einselbst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="einselbst" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einselbst&show_icons=true&locale=en&layout=compact&theme=dracula" alt="einselbst" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einselbst&show_icons=true&theme=dracula&locale=en" alt="einselbst" /></p>
