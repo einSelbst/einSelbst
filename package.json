@@ -1,0 +1,22 @@
+{
+  "name": "einselbst",
+  "version": "1.0.0",
+  "description": "my GitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/einSelbst/einSelbst.git"
+  },
+  "author": "einSelbst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einSelbst/einSelbst/issues"
+  },
+  "homepage": "https://github.com/einSelbst/einSelbst#readme",
+  "dependencies": {
+    "mustache": "4.1.0"
+  }
+}
