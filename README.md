@@ -1,4 +1,4 @@
-My name is Thomas and today is Saturday, December 19, 4:58 AM GMT+1.
+My name is not Thomas and today is Saturday, December 19, 5:04 AM GMT+1.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/einSelbst)  
 
@@ -8,7 +8,7 @@ My name is Thomas and today is Saturday, December 19, 4:58 AM GMT+1.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=einSelbst)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=einSelbst&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=einSelbst&show_icons=true&count_private=true&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/einSelbst)  
 
@@ -16,16 +16,13 @@ My name is Thomas and today is Saturday, December 19, 4:58 AM GMT+1.
 
 ![Profile views](https://gpvc.arturio.dev/einSelbst)
 
-
-<p align="left"> <a href="https://twitter.com/einselbst" target="blank"><img src="https://img.shields.io/twitter/follow/einselbst?logo=twitter&style=for-the-badge" alt="einselbst" /></a> </p>
+<p align="left"> <a href="https://twitter.com/einselbst" target="blank"><img src="https://img.shields.io/twitter/follow/einselbst?logo=twitter&style=for-the-badge&theme=dracula" alt="einselbst" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/einselbst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="einselbst" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einselbst&show_icons=true&locale=en&layout=compact" alt="einselbst" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=einselbst&show_icons=true&locale=en&layout=compact&theme=dracula" alt="einselbst" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=einselbst&show_icons=true&theme=dracula&locale=en" alt="einselbst" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=einselbst&" alt="einselbst" /></p>
