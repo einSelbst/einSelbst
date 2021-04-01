@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/einSelbst/einSelbst#readme",
   "dependencies": {
-    "mustache": "4.1.0"
+    "mustache": "4.2.0"
   }
 }
